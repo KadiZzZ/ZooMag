@@ -26,7 +26,7 @@
                             <li class="header_item">
                                 <a href="#!" class="header_link">О нас</a>
                             <li class="header_item">
-                                <a href="#!" class="header_link">Контакты</a>
+                                <a href="reg.php" class="header_link">Контакты</a>
                             <li class="header_item">
                                 <a href="#!" class="header_link2">&nbsp;&nbsp;  +7 927 986 82 00 </a>
                             <li class="header_item">
