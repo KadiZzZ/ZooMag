@@ -11,6 +11,7 @@
     <link rel="stylesheet" href="./css/style3.css">
 </head>
 <body>
+
 <header class="header">
     <div class="wrapper">
         <div class="header_wrapper">
@@ -25,7 +26,7 @@
                     <li class="header_item">
                         <a href="katalog.php" class="header_link">Каталог</a>
                     <li class="header_item">
-                        <a href="test.html" class="header_link">О нас</a>
+                        <a href="QA.php" class="header_link">О нас</a>
                     <li class="header_item">
                         <a href="#!" class="header_link">Контакты</a>
                     <li class="header_item">
@@ -75,6 +76,7 @@
             <div class="v28_193"></div></div><div class="v28_194"><span class="v28_195">Я согласен с политикой конфиденциальности</span>
             <div class="v28_196"></div></div><div class="name"></div>
         <div class="name"></div></div></div>
+
 
 </body>
 </html>
